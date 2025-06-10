@@ -41,7 +41,8 @@ flutter pub get
 # Execute o projeto (modo debug)
 flutter run
 
----
+```
+
 ## Autor
 Este projeto foi desenvolvido por **Ari Junior**
 
