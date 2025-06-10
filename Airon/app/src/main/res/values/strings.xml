@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Airon</string>
+    <string name="jogar">Jogar</string>
+    <string name="entrar">Entrar</string>
+    <string name="comecar">Comece agora</string>
+    <String name="aproveite">Aproveite agora!</String>
+    <string name="aproveitar">Aproveite agora</string>
+</resources>
