@@ -2,6 +2,21 @@
 
 Aplicativo mobile desenvolvido para o supermercado **Super Villa**, com o objetivo de oferecer aos clientes uma experiência prática e rápida na visualização de ofertas, produtos, categorias e novidades do mercado.
 
+
+
+
+![Tela Inicial](image.png)
+
+![Cadastro de Produtos](image-1.png)
+---
+
+## 📱 Funcionalidades
+
+- Visualização das principais **ofertas da semana**.
+- Lista de **categorias** de produtos disponíveis.
+- Destaque de **produtos em promoção**.
+- Interface moderna e intuitiva, voltada para o usuário final.
+
 ---
 Tem funcionalidades para os **Clientes** como:
 - Ver as ofertas da semana
@@ -21,19 +36,6 @@ Tem funcionalidades para os **Usuários** como:
 - Acompanhar compras
 - Acompanhar estoque
 - Adicionar campanhas
-
-
-![Tela Inicial](image.png)
-
-![Cadastro de Produtos](image-1.png)
----
-
-## 📱 Funcionalidades
-
-- Visualização das principais **ofertas da semana**.
-- Lista de **categorias** de produtos disponíveis.
-- Destaque de **produtos em promoção**.
-- Interface moderna e intuitiva, voltada para o usuário final.
 
 ---
 
